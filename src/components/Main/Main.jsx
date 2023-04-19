@@ -15,7 +15,7 @@ export default class Main extends Component {
             最棒的在线音乐“互动课程”，用游戏的方式学习音乐、享受音乐
             <br />[当前版本为测试版，仅开放一节课程，更多内容敬请期待]
         </p>
-        <a className='main-start-link' href="/class1/class1.html">立即体验</a>
+        <a className='main-start-link' href="https://everymusic-class1.vercel.app/video">立即体验</a>
       </div>
       <ul className='main-infoTab'>
         <li>
