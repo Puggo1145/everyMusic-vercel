@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.89db10e0.css",
+    "main.js": "./static/js/main.c1f8904c.js",
+    "static/media/SmileySans-Oblique.ttf": "./static/media/SmileySans-Oblique.f006b2b53cdb3f774b2f.ttf",
+    "static/media/Shared goals-cuate.png": "./static/media/Shared goals-cuate.ad9dfe03381243a26a7e.png",
+    "static/media/length.png": "./static/media/length.d43177437fcc7248eb41.png",
+    "static/media/HarmonyOS-Sans-Black.ttf": "./static/media/HarmonyOS-Sans-Black.7b971d2e580d01b32931.ttf",
+    "static/media/main-background.png": "./static/media/main-background.d1d82013567f1cfc4183.png",
+    "static/media/volume.png": "./static/media/volume.a44ca614c7a28a33f6f5.png",
+    "static/media/note.png": "./static/media/note.dc486eb26651e87f84f0.png",
+    "static/media/Music-cuate 1.png": "./static/media/Music-cuate 1.ad67c444fec5e5864d33.png",
+    "static/media/click.png": "./static/media/click.080cb33893b8b8569cfc.png",
+    "index.html": "./index.html",
+    "main.89db10e0.css.map": "./static/css/main.89db10e0.css.map",
+    "main.c1f8904c.js.map": "./static/js/main.c1f8904c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89db10e0.css",
+    "static/js/main.c1f8904c.js"
+  ]
+}
